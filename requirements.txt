@@ -1,0 +1,6 @@
+requests
+streamlit
+streamlit_lottie
+streamlit_option_menu
+streamlit_authenticator
+st-annotated-text
