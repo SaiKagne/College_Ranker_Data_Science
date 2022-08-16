@@ -225,7 +225,7 @@ if authentication_status:
                     - Go through each and every internship content modules.
                     - Get the **Internship** completion certificate in the end.
                     """)
-                st.write('[**Follow Us >**](https://www.linkedin.com/company/collegeranker-india/)')
+                st.write('[**Download Resources >**](https://drive.google.com/drive/folders/1wETzG5eTKkrrzKppNradqx17TW4XmjOe?usp=sharing)')
 
             with right_column:
                 st_lottie(lot_week4, height=300, key="coding")
